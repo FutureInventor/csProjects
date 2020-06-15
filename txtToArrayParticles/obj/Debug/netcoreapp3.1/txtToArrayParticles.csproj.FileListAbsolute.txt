@@ -1,0 +1,13 @@
+C:\Users\khudz\source\repos\txtToArrayParticles\bin\Debug\netcoreapp3.1\txtToArrayParticles.exe
+C:\Users\khudz\source\repos\txtToArrayParticles\bin\Debug\netcoreapp3.1\txtToArrayParticles.deps.json
+C:\Users\khudz\source\repos\txtToArrayParticles\bin\Debug\netcoreapp3.1\txtToArrayParticles.runtimeconfig.json
+C:\Users\khudz\source\repos\txtToArrayParticles\bin\Debug\netcoreapp3.1\txtToArrayParticles.runtimeconfig.dev.json
+C:\Users\khudz\source\repos\txtToArrayParticles\bin\Debug\netcoreapp3.1\txtToArrayParticles.dll
+C:\Users\khudz\source\repos\txtToArrayParticles\bin\Debug\netcoreapp3.1\txtToArrayParticles.pdb
+C:\Users\khudz\source\repos\txtToArrayParticles\obj\Debug\netcoreapp3.1\txtToArrayParticles.csprojAssemblyReference.cache
+C:\Users\khudz\source\repos\txtToArrayParticles\obj\Debug\netcoreapp3.1\txtToArrayParticles.csproj.CoreCompileInputs.cache
+C:\Users\khudz\source\repos\txtToArrayParticles\obj\Debug\netcoreapp3.1\txtToArrayParticles.AssemblyInfoInputs.cache
+C:\Users\khudz\source\repos\txtToArrayParticles\obj\Debug\netcoreapp3.1\txtToArrayParticles.AssemblyInfo.cs
+C:\Users\khudz\source\repos\txtToArrayParticles\obj\Debug\netcoreapp3.1\txtToArrayParticles.dll
+C:\Users\khudz\source\repos\txtToArrayParticles\obj\Debug\netcoreapp3.1\txtToArrayParticles.pdb
+C:\Users\khudz\source\repos\txtToArrayParticles\obj\Debug\netcoreapp3.1\txtToArrayParticles.genruntimeconfig.cache

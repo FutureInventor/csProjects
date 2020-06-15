@@ -1,0 +1,9 @@
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\bin\Debug\myFirstCS.dll
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\bin\Debug\myFirstCS.pdb
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\obj\Debug\myFirstCS.csprojAssemblyReference.cache
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\obj\Debug\myFirstCS.csproj.CoreCompileInputs.cache
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\obj\Debug\myFirstCS.dll
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\obj\Debug\myFirstCS.pdb
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\bin\Debug\ClassLibrary1.dll
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\bin\Debug\ClassLibrary1.pdb
+C:\Users\khudz\source\repos\myFirstCS\myFirstCS\obj\Debug\myFirstCS.csproj.CopyComplete
